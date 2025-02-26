@@ -1,0 +1,4 @@
+site_name: Guía de Angular DAW
+nav:
+  - Inicio: index.md
+  - Conceptos Básicos: basicos/basico.md
