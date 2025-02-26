@@ -47,7 +47,7 @@ xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 
-2. Paso 2: Descripción.
+1. Paso 2: Descripción.
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
@@ -81,6 +81,11 @@ xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 
+1. Otro paso
+aaaa aaaaaaaaaaaaaa  aaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaa
 
 ## Sección 2: Uso
 Guía sobre cómo utilizar el proyecto después de instalarlo.
