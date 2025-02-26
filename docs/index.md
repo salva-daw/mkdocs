@@ -4,6 +4,11 @@ Pasos necesarios para instalar y configurar el proyecto.
 ### Requisitos Previos
 - Requisito 1
 - Requisito 2
+
+<div style="background-color: #e0f2f7; padding: 10px; border: 1px solid #b0e0e6;">
+  Este es el texto dentro del recuadro con fondo azul claro.
+</div>
+
 ### Pasos de Instalación
 1. Paso 1: Descripción.
 xxxx xxxx xxxx xxxx
@@ -46,6 +51,13 @@ xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
+
+1. ### Nuevo de Pedro
+aaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaa
+  
 
 1. Paso 2: Descripción.
 xxxx xxxx xxxx xxxx
