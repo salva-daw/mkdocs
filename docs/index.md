@@ -47,6 +47,11 @@ xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
 
+<div style="background-color: #ffe0e0; padding: 10px; border-radius: 5px; border-left: 5px solid red;">
+    > [!IMPORTANT]
+    > Esto es un mensaje importante con fondo rojo claro.
+</div>
+
 2. Paso 2: Descripción.
 xxxx xxxx xxxx xxxx
 xxxx xxxx xxxx xxxx
