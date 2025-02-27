@@ -1,6 +1,13 @@
 # Guía de Usuario
 ## Sección 1: Instalación
 Pasos necesarios para instalar y configurar el proyecto.
+
+
+<div style="background-color: #ffe0e0; padding: 10px; border: 1px solid #ffaaaa;">
+  <span style="color: #ff0000; font-size: 1.5em; vertical-align: middle;">⚠️</span>
+  <span style="vertical-align: middle;"> Esto es un mensaje de error.</span>
+</div>
+
 ### Requisitos Previos
 - Requisito 1
 - Requisito 2
